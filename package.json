@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "echo \"prepareを実行しました\""
+    "prepare": "cowsay \"こんにちは\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rxjs": "^6.6.3"
+    "cowsay": "^1.4.0"
   }
 }
