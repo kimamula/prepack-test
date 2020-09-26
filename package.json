@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "echo \"prepareを実行しました\""
+    "prepare": "echo \"prepareを実行しました\""
   },
   "keywords": [],
   "author": "",
