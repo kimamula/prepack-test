@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepack": "cowsay \"こんにちは\""
+    "prepublish": "exit 123",
+    "prepare": "cowsay \"こんにちは\""
   },
   "keywords": [],
   "author": "",
